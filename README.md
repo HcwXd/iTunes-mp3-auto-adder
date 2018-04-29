@@ -1,5 +1,5 @@
 # iTunes-mp3-auto-adder
-##What is this?
+## What is this?
 
 When we use Mac, it is always time-consuming to add all your mp3 files into iTunes and make backup of all these files. This shell script will help you
 
@@ -13,7 +13,7 @@ When we use Mac, it is always time-consuming to add all your mp3 files into iTun
 
 Clone the shell script into your mp3 files' source folder
 
-####After cloning run the below:
+#### After cloning run the below:
 
 ```shell
 ./iTunesAdder [your_backup_folder]
