@@ -2,6 +2,12 @@
 fileList=$(ls | grep .mp3$)
 re='.mp3$'
 
+function rename(){
+	file_name=$1
+
+}
+
+
 for fileName in $fileList
 do
 	if [[ $fileName =~ $re ]]; then
